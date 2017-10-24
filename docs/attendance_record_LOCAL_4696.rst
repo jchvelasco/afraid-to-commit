@@ -2,5 +2,3 @@
 test
 tyrell wellick
 mr robot
-elliot alderson
-
